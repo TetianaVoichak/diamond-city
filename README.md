@@ -1,2 +1,2 @@
 # diamond-city
-web-site
+Store website
