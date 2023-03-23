@@ -1,0 +1,1562 @@
+/*this option will work if a screen is 1200px and less*/
+ @media (max-width: 1599px)
+ {
+  .container
+  {
+    width:100%;
+  }
+.promo
+{
+  width: 100%;
+}
+.text-conception
+{
+  margin-left: auto;
+  margin-right: 200px;
+}
+
+.img-benefits
+{
+  width: 100%;
+}
+.map-style
+{
+  margin: 100px 50px 100px 50px;
+  width: 550px;
+  height: 650px;
+}
+
+.style {
+  color: #fff;
+  margin-top: 200px;
+  display: flex;
+}
+.style-class {
+  display: flex;
+  background-color: #333333;
+  font-family: "SF Pro Display", sans-serif;
+}
+
+.style-text,
+.text-apartaments {
+  max-width: 550px;
+  margin-left: 100px;
+  margin-top: 100px;
+  font-size: 18px;
+  font-weight: 400px;
+  line-height: 23px;
+  float: left;
+}
+.style-title {
+  font-family: "New York Extra Large", sans-serif;
+  font-size: 36px;
+  font-weight: 500;
+  margin-bottom: 50px;
+}
+.style-img {
+  margin: 100px 100px 100px 100px;
+
+}
+.style-img-png
+{
+  width: 100%;
+}
+
+.text-penthause {
+  margin-left: 50px;
+  margin-right: 100px;
+  width: 550px;
+}
+.img-penthause-2 {
+  margin: 0 0 0px 100px;
+
+}
+.img-penthause-2-png
+{
+  width: 100%;
+}
+.img-apartaments
+{
+  margin: 0px 100px 100px 100px;
+}
+.info-tech {
+  margin-left: 150px;
+}
+.text-environs{
+  margin-right: 100px;
+}
+.btn-info-charakt-serv,
+.btn-info-charakt-park,
+.btn-info-charakt-video,
+.btn-info-charakt-lift,
+.btn-info-charakt-terr,
+.btn-info-charakt-fenst,
+.btn-info-charakt-signal,
+.btn-info-charakt-kond,
+.btn-info-charakt-vent {
+
+  margin-right: 150px;
+}
+.header-tech {
+  margin-bottom: 50px;
+  margin-left: 150px;
+}
+.img-flat
+{
+  width: 100%;
+  margin-top: 100px;
+}
+.img-hause
+{
+  width: 100%;
+  margin-top: 100px;
+}
+.name-partners
+{
+  margin-left: 100px;
+  
+}
+.grid-partners
+{
+  margin: 50px 100px 100px 100px;
+  grid-template-columns: repeat(3,350px);
+  grid-template-rows: repeat(2 , 200px); 
+  grid-gap: 20px;
+  justify-items: center;
+}
+.rect-vtb24,
+.rect-gaz,
+.rect-tinkoff,
+.rect-nordgold,
+.rect-lukoil,
+.rect-pikgrupa {
+  width: 100%;
+height: auto;
+}
+.footer-main {
+
+  margin-left: 150px;
+}
+
+.contacts-footer {
+  margin-left: 100px;
+}
+
+.footer-forma {
+  margin-left: 50px;
+
+}
+.contacts-input
+{
+  width: 100%;;
+}
+}
+
+ @media (max-width: 1200px)
+ {
+  .container
+  {
+      width: 100%;
+  }
+  .header-row {
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: center;
+    font-size: 13px;
+    line-height: 15px;
+    
+  }
+  .menu-btn
+  {
+    text-align: center;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22.68px;
+    color: #fff;
+    border-color: #fff;
+    background: none;
+    /* margin: 62px 200px 0 70px; */
+    padding: 10px 10px 10px 10px;
+    border: 1px solid #fff;
+  }
+
+  .menu-link
+  {
+    margin-right: 25px;
+  }
+  .image {
+    width: 100%;
+    background: url(../images/diamondcity.jpg) top center;
+ }
+
+ .name
+{
+  font-weight: 300;
+  font-size: 52px;
+  line-height: 56px;
+}
+
+.conception
+{
+  margin-top: 75px;
+}
+.title-conception
+{
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 33px;
+  margin-left: 50px;
+}
+.text-conception{
+  margin-right: 50px;
+}
+.environs{
+  margin-top: 110px;
+}
+.map-style
+{
+  margin: 100px 50px 100px 50px;
+  width: 350px;
+  height: 450px;
+}
+.text-environs{
+  margin-right: 50px;
+  margin-left: 0px;
+}
+.title-environs {
+  font-size: 26px;
+  line-height: 33px;
+  max-width: 193px;
+  margin-top: 100px;
+}
+.text-distance{
+    margin-top: 30px;
+    font-weight: 300;
+    margin-right: 50px;
+    max-width: 81px;
+}
+.title-benefits,
+.title-apartaments {
+  font-size: 26px;
+  line-height: 33px;
+  margin: 50px 0 50px 100px;
+}
+.img-benefits-architecture {
+  margin-left: 100px;
+}
+.img-benefits-penthouse {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.img-benefits
+{
+width: 100%;
+}
+.text-architecture,
+.text-penthouse
+{
+  font-size: 18px;
+}
+
+.style {
+  margin-top: 200px;
+}
+
+.style {
+  margin-top: 100px;
+}
+
+.style-text,
+.text-apartaments {
+  width: 100%;
+  margin-left: 50px;
+  margin-top: 0px;
+  margin-bottom: 50px;
+ 
+}
+.style-title {
+  margin-bottom: 50px;
+}
+.style-img {
+  margin: auto 50px auto 50px;
+}
+.style-img-png
+{
+  width: 100%;
+}
+.penthause
+{
+  margin-top: 100px;
+}
+.text-penthause {
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-right: 50px;
+  width: 550px;
+}
+.title-penthause{
+  font-size: 30px;
+  line-height: 35px;
+  margin-bottom:  15px;
+  margin-top: 50px;
+}
+.img-penthause-2 {
+  margin: 50px 0 0px 50px;
+
+}
+.img-penthause-2-png
+{
+  width: 100%;
+}
+.class-apartaments
+{
+margin-top: 100px;
+}
+.img-apartaments {
+  margin: 0px 50px 50px 50px;
+}
+.img-apart-png
+{
+  width:100%;
+}
+.title-apartaments {
+  margin: 50px 0px 0px 0px;
+}
+.text-apartaments
+{
+  margin-right: 0;
+}
+
+.menu-btn-request {
+
+  margin-top: 30px;
+  font-size: 15px;
+  font-weight: 300px;
+  line-height: 18px;
+  max-width: 200px;
+  padding: 15px 25px 15px 25px;
+  
+}
+.teh-charakteristick {
+  margin-top: 100px;
+}
+.info-tech
+{
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 18px;
+  margin-left: 100px;
+}
+.btn-info-charakt-serv,
+.btn-info-charakt-park,
+.btn-info-charakt-video,
+.btn-info-charakt-lift,
+.btn-info-charakt-terr,
+.btn-info-charakt-fenst,
+.btn-info-charakt-signal,
+.btn-info-charakt-kond,
+.btn-info-charakt-vent {
+
+  margin-right: 100px;
+}
+
+.header-tech {
+  margin-bottom: 50px;
+  margin-left: 100px;
+}
+.img-flat
+{
+  width: 100%;
+  margin-top: 50px;
+}
+.img-hause
+{
+  width: 100%;
+  margin-top: 50px;
+}
+.partners-1-3 {
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+
+}
+
+.partners-4-6 {
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+}
+.name-partners
+{
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.name-partners
+{
+  margin-left: 50px;
+  margin-top: 100px;
+}
+.grid-partners
+{
+  margin: 50px 50px 50px 50px;
+  grid-template-columns: repeat(3,250px);
+  grid-template-rows: repeat(2 , 150px); 
+  grid-gap: 10px;
+  justify-items: center;
+}
+.rect-vtb24,
+.rect-gaz,
+.rect-tinkoff,
+.rect-nordgold,
+.rect-lukoil,
+.rect-pikgrupa {
+  height: auto;
+}
+.footer-main {
+  margin-left: 50px;
+  margin-top: 100px;
+}
+
+.contacts-footer {
+  margin-left: 50px;
+}
+
+.footer-forma {
+  margin-left: 50px;
+  margin-top: 100px;
+margin-right: 50px;}
+.contacts-input 
+{
+  width: 90%;
+}
+.contacts-footer
+{
+  margin-left: 50px;
+}
+
+.request-title
+{
+  font-size: 30px;
+  line-height: 33px;
+}
+}
+
+@media (max-width: 900px)
+{
+  .container
+  {
+      width: 100%;
+  }
+  .header-row {
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: center;
+    font-size: 13px;
+    line-height: 15px;
+  }
+  .menu-btn
+  {
+    text-align: center;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22.68px;
+    color: #fff;
+    border-color: #fff;
+    background: none;
+    /* margin: 62px 200px 0 70px; */
+    padding: 10px 10px 10px 10px;
+    border: 1px solid #fff;
+  }
+
+  .menu-link
+  {
+    margin-right: 25px;
+  }
+  
+
+ .name
+{
+  width: 537px;
+  font-weight: 200;
+  font-size: 52px;
+  line-height: 52px;
+  margin: 250px auto 0 auto;
+  text-align: center;
+}
+.address {
+  margin: 32px auto;
+  width: 223px;
+  justify-content: space-between;
+}
+.conception
+{
+  margin-top: 75px;
+}
+.title-conception
+{
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 33px;
+  margin-left: 50px;
+}
+.text-conception
+{
+  margin-left: 50px;
+
+}
+.map-style
+{
+  margin: 100px 50px 100px 50px;
+  width: 350px;
+  height: 450px;
+}
+
+.title-environs {
+  font-size: 26px;
+  line-height: 33px;
+  max-width: 193px;
+  margin-top: 100px;
+}
+.text-environs{
+  margin-right: 50px;
+  line-height: 18px;
+  font-size: 12px;
+}
+.text-distance{
+  margin-top: 30px;
+    font-family: "SF Pro Display", sans-serif;
+    font-weight: 300;
+    margin-right: 50px;
+    max-width: 81px;
+    display: flex;
+}
+  .text-distance {
+    margin-top: 50px;
+    display: flex;
+  }
+  .text-distance-1 {
+    display: flex;
+  }
+  .text-dist1 {
+    float: left;
+    height: 86px;
+  }
+  .text-dist2 {
+    float: left;
+    margin-left: 50px;
+    height: 86px;
+  }
+  .text-dist3 {
+    float: left;
+    margin-left: 50px;
+    height: 86px;
+  }
+  
+  .text-distance-number {
+    font-size: 26px;
+  }
+  
+  .text-distance-km {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  .text-distance-area {
+    font-size: 12px;
+  }
+
+  .title-benefits,
+.title-apartaments {
+  font-size: 26px;
+  line-height: 33px;
+  margin: 50px 0 50px 100px;
+}
+.img-benefits-architecture {
+  margin-left: 100px;
+}
+.img-benefits-penthouse {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.img-benefits
+{
+width: 100%;
+}
+.text-architecture,
+.text-penthouse
+{
+  font-size: 18px;
+}
+.style {
+
+  margin-top: 200px;
+  
+}
+
+.style {
+  margin-top: 100px;
+}
+
+.style-text,
+.text-apartaments {
+  width: 100%;
+  margin-left: 50px;
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+.style-title {
+  margin-bottom: 50px;
+}
+.style-img {
+  margin: auto 50px auto 50px;
+}
+.style-img-png
+{
+  width: 100%;
+}
+.penthause
+{
+  margin-top: 50px;
+}
+.text-penthause {
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-right: 50px;
+  width: 550px;
+}
+.title-penthause{
+  font-size: 30px;
+  line-height: 35px;
+  margin-bottom:  15px;
+}
+.img-penthause-2 {
+  margin: 50px 0 50px 50px;
+  float: left;
+}
+.img-penthause-2-png
+{
+  width: 100%;
+}
+
+
+.menu-btn-request {
+
+  margin-top: 0px;
+  font-size: 15px;
+  font-weight: 300px;
+  line-height: 18px;
+  max-width: 200px;
+  padding: 15px 25px 15px 25px;
+}
+.img-apart-png
+{
+  width:100%;
+}
+.title-apartaments {
+  margin: 0px 0px 0px 0px;
+}
+.info-tech {
+  margin-left: 100px;
+}
+.btn-info-charakt-serv,
+.btn-info-charakt-park,
+.btn-info-charakt-video,
+.btn-info-charakt-lift,
+.btn-info-charakt-terr,
+.btn-info-charakt-fenst,
+.btn-info-charakt-signal,
+.btn-info-charakt-kond,
+.btn-info-charakt-vent {
+  margin-right: 100px;
+}
+.header-tech {
+  margin-bottom: 50px;
+  margin-left: 100px;
+}
+.img-flat
+{
+  width: 100%;
+  margin-top: 50px;
+}
+.img-hause
+{
+  width: 100%;
+  margin-top: 50px;
+}
+.info-tech
+{
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 18px;
+  margin-left: 100px;
+}
+
+.partners-1-3 {
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+
+}
+
+.partners-4-6 {
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+}
+.grid-partners
+{
+  margin: 50px 50px 50px 50px;
+  grid-template-columns: repeat(2,300px);
+  grid-template-rows: repeat(3 , 150px); 
+  grid-gap: 20px;
+  justify-items: center;
+}
+.rect-vtb24,
+.rect-gaz,
+.rect-tinkoff,
+.rect-nordgold,
+.rect-lukoil,
+.rect-pikgrupa {
+  width: 100%;
+  height: auto;
+}
+.footer-main {
+  margin-left: 50px;
+}
+
+.contacts-footer {
+  margin-left: 50px;
+}
+
+.footer-forma {
+  margin-left: 50px;
+  margin-top: 100px;
+}
+.contacts-input 
+{
+  width: 90%;
+}
+.contacts-footer
+{
+  margin-left: 50px;
+}
+.request-title
+{
+  font-size: 30px;
+  line-height: 33px;
+}
+.footer-info-additionaly-left
+{
+  margin-top: 162px;
+}
+}
+ @media (max-width: 800px)
+ {
+  .container
+  {
+   width: 100%;
+  }
+
+/*если экран меньше чем этот размер, нужно полностью менять меню*/
+
+.header-row
+{
+  display: none;
+}
+.header-row-mobile
+{
+  display: block;
+  height: 25px;
+}
+
+.menu-btn-mobile
+{
+  margin: 25px auto auto 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 40px;
+  height: 30px;
+  background-color: transparent;
+  border: none;
+}
+
+.menu-btn-mobile span {
+height: 3px;
+width: 100px;
+background-color: #fff;
+}
+.menu-mobile{
+  display: none;
+}
+
+.menu-mobile.menu--open
+{
+  display: flex;
+  flex-direction: column;
+  margin: 25px auto auto 25px;
+  line-height: 30px;
+}
+
+.promo
+{
+  background-image: url(../images/diamondcity.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 179px;
+  margin: 0 auto;
+  height: 150px;
+}
+
+.name
+{
+  width: 280px;
+  font-weight: 200;
+  font-size: 32px;
+  line-height: 32px;
+  margin: 0px auto 0 auto;
+  text-align: center;
+}
+
+.address {
+  margin: 7px auto;
+  width: 223px;
+  justify-content: space-between;
+  font-size: 15px;
+}
+
+.promo_inner.menu-open{
+  display: block;
+  min-height: unset;
+  margin: 60px auto 10px auto;
+}
+
+.conception
+{
+  margin-top:  50px;
+}
+.title-conception
+{
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 13px;
+}
+.text-conception
+{
+  margin-left: 50px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 23px;
+  margin-left: 50px;
+}
+
+.environs
+{
+  margin-top: 15px;
+}
+.map-environs
+{
+  display: block;
+  width: 100%;
+  margin-right: 15px;
+  padding-bottom: 5px;
+}
+
+.map {
+margin-left: 25px;
+}
+
+.map-style
+{
+  margin: 20px 20px 20px 20px;
+  width: 90%;
+  height: 150px;
+}
+
+.text-environs{
+  float: unset;
+  width: 100%;
+  margin-bottom: 50px;
+  margin-left: 50px;
+}
+.title-environs {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 13px;
+  margin-top: 0;
+}
+.text-info {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 23px;
+}
+.text-distance{
+    margin-top: 0;
+    font-weight: 300;
+    margin-right: 20px;
+    max-width: 81px;
+    display: flex;
+}
+  
+  .text-dist2 {
+    float: left;
+    margin-left: 50px;
+    height: 86px;
+  }
+  .text-dist3 {
+
+    margin-left: 50px;
+    height: 86px;
+  }
+  
+  .text-distance-number {
+    font-size: 18px;
+  }
+  
+  .text-distance-km {
+    font-size: 13px;
+    margin-top: 5px;
+  }
+  .text-distance-area {
+    font-size: 10px;
+  }
+  .title-benefits,
+  .title-apartaments {
+    font-size: 26px;
+    line-height: 33px;
+    margin: 50px 0 50px 100px;
+  }
+  .img-benefits-architecture {
+    margin-left: 100px;
+  }
+  .img-benefits-penthouse {
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  
+  .img-benefits
+  {
+  width: 100%;
+  }
+  .text-architecture
+  {
+    font-size: 18px;
+  }
+
+  .style {
+    margin-top: 50px;
+  }
+  
+  .style-text,
+  .text-apartaments {
+    width: 100%;
+    margin-left: 50px;
+    margin-top: 0px;
+    font-size: 15px;
+    font-weight: 400px;
+    line-height: 18px;
+    margin-bottom: 50px;
+   
+  }
+  .style-title {
+    font-size: 26px;
+    font-weight: 300;
+    margin-bottom: 20px;
+    margin-top: 50px;
+  }
+  .style-img {
+    margin: auto 50px auto 50px;
+  }
+  .style-img-png
+  {
+    width: 100%;
+  }
+  .penthause
+  {
+    margin-top: 50px;
+  }
+  .text-penthause {
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    width: 550px;
+    font-size: 15px;
+    font-weight: 300px;
+    line-height: 18px;
+  }
+  .title-penthause{
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom:  10px;
+  }
+  .img-penthause-2 {
+    margin: 50px 0 50px 50px;
+  }
+  .img-penthause-2-png
+  {
+    width: 100%;
+  }
+  
+  .menu-btn-request {
+  
+    margin-top: 0px;
+    font-size: 13px;
+    font-weight: 200px;
+    line-height: 15px;
+    max-width: 200px;
+    padding: 10px 20px 10px 20px;
+  }
+  .img-apart-png
+{
+  width:100%;
+}
+.title-apartaments {
+  margin: 0px 0px 0px 0px;
+}
+
+.info-tech {
+  margin-left: 50px;
+  line-height: 13px;
+}
+.btn-info-charakt-serv,
+.btn-info-charakt-park,
+.btn-info-charakt-video,
+.btn-info-charakt-lift,
+.btn-info-charakt-terr,
+.btn-info-charakt-fenst,
+.btn-info-charakt-signal,
+.btn-info-charakt-kond,
+.btn-info-charakt-vent {
+
+  margin-right: 50px;
+}
+.header-tech {
+    margin-bottom: 20px;
+    margin-left: 50px;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 38px;
+}
+.teh-charakteristick {
+  margin-top: 50px;
+
+ }
+ .img-flat
+{
+  width: 100%;
+  margin-top: 50px;
+}
+.img-hause
+{
+  width: 100%;
+  margin-top: 50px;
+}
+.name-partners
+{
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.grid-partners
+{
+  margin: 50px 50px 50px 50px;
+  grid-template-columns: repeat(2,220px);
+  grid-template-rows: repeat(3 , 150px); 
+  grid-gap: 50px;
+  justify-items: center;
+}
+.rect-vtb24,
+.rect-gaz,
+.rect-tinkoff,
+.rect-nordgold,
+.rect-lukoil,
+.rect-pikgrupa {
+  width: 100%;
+  height: auto;
+}
+.footer-main {
+  margin-left: 50px;
+}
+
+.contacts-footer {
+  margin-left: 50px;
+}
+
+.footer-forma {
+  margin-left: 50px;
+  margin-top: 100px;
+}
+.contacts-input 
+{
+  width: 90%;
+}
+.contacts-footer
+{
+  margin-left: 20px;
+  font-size: 15px;
+}
+.footer-links-contacts{
+  font-size: 13px;
+}
+.request-title
+{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 50px;
+}
+.footer-info-additionaly-left
+{
+  margin-top: 162px;
+}
+.footer-links-contacts
+{
+  font-size: 15px;
+  line-height: 20px;
+}
+.footer-add-info-accept
+{
+  font-size: 13px;
+}
+.name-footer {
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 33px;
+  margin-bottom: 50px;
+ }
+}
+
+ @media (max-width: 600px)
+ {
+  .container
+  {
+   width: 100%;
+  }
+/*если экран меньше чем этот размер, нужно полностью менять меню*/
+
+.promo
+{
+/*
+  padding-top: 30px;
+  margin: 0 auto;
+  height: 150px;
+  */
+  padding-top: 179px;
+  height: 150px;
+}
+
+.header-row
+{
+  display: none;
+}
+
+.menu-btn-mobile
+{
+  margin: 25px auto auto 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 40px;
+  height: 30px;
+  background-color: transparent;
+  border: none;
+}
+.menu-btn-mobile span {
+  height: 3px;
+  width: 100px;
+  background-color: #fff;
+  }
+  .menu-mobile{
+  
+    display: none;
+  }
+  
+  .menu-mobile.menu--open
+  {
+    display: flex;
+    flex-direction: column;
+    margin:25px auto auto 25px;
+    line-height: 30px;
+  }
+
+
+.name
+{
+  width: 280px;
+  font-weight: 200;
+  font-size: 32px;
+  line-height: 32px;
+  margin: 0px auto 0 auto;
+  text-align: center;
+}
+
+.address 
+{
+  margin: 7px auto ;
+  width: 223px;
+  justify-content: space-between;
+  font-size: 15px;
+}
+
+.promo_inner.menu-open{
+  display: block;
+  min-height: unset;
+  margin: 60px auto 10px auto;
+}
+
+.conception
+{
+  display: block;
+  margin-top:  0px;
+  margin-top: 10px;
+}
+
+.title-conception
+{
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 10px;
+}
+.text-conception
+{ 
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 20px;
+  margin-left: 50px;
+}
+
+.environs
+{
+  margin-top: 15px;
+}
+.map
+{
+  margin-left: 0px;
+}
+.map-environs
+{
+  display: block;
+  width: 100%;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.map-style
+{
+  margin: 20px 0px 20px 20px;
+  width: 90%;
+  height: 150px;
+}
+.text-environs{
+  float: unset;
+  width: 90%;
+  margin-bottom: 50px;
+  margin-left: 20px;
+  margin-top: 0px;
+  
+}
+.title-environs {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 13px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.text-info {
+  font-size: 13px;
+  line-height: 15px;
+ 
+}
+.text-distance{
+    margin-top: 0;
+    font-weight: 300;
+    margin-right: 20px;
+    max-width: 81px;
+    display: flex;
+}
+  .text-dist2 {
+    float: left;
+    margin-left: 50px;
+    height: 86px;
+  }
+  .text-dist3 {
+
+    margin-left: 50px;
+    height: 86px;
+  }
+  
+  .text-distance-number {
+    font-size: 18px;
+  }
+  
+  .text-distance-km {
+    font-size: 13px;
+    margin-top: 5px;
+  }
+  .text-distance-area {
+    font-size: 10px;
+  }
+  .title-benefits,
+  .title-apartaments {
+    font-size: 20px;
+    line-height: 30px;
+    margin: 20px 0 20px 50px;
+  }
+  .img-benefits-architecture {
+    margin-left: 50px;
+  }
+  .img-benefits-penthouse {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  
+  .img-benefits
+  {
+  width: 100%;
+  }
+
+.text-penthause
+{
+  font-size: 13px;
+  line-height: 15px;
+  margin: 0px 15px 0px 20px;
+}
+.title-penthause
+{
+  margin-top: 0px;
+}
+
+  .style {
+    margin-top: 0px;
+  }
+  .style-class
+  {
+    display: block;
+    margin-right: 15px;
+    width: 100%;
+  }
+  
+  .style-text
+{
+  width: 85%;
+    font-size: 13px;
+    font-weight: 300px;
+    line-height: 15px;
+
+    margin: 0px 15px 0px 20px;
+    padding: 20px 15px 30px 15px;
+}
+  .text-apartaments {
+    width: 85%;
+    font-size: 13px;
+    font-weight: 300px;
+    line-height: 15px;
+
+    margin: 0px 15px 0px 20px;
+    padding: 20px 15px 30px 0px;
+  }
+  .style-title {
+    margin-top: 0px;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 10px;
+  }
+  .style-img {
+    margin: 0px 50px 50px 50px;
+    padding: 0px 0px 50px 0px;
+    float: unset;
+  }
+  .style-img-png
+  {
+    width: 100%;
+  }
+  .class-penthause {
+    display: block;
+    width: 85%;
+    /*margin: 0px 15px 0px 15px;
+    padding: 0px 15px 30px 15px;*/
+  }
+  .penthause
+  {
+    margin-top: 0px;
+  }
+  .text-penthause {
+    width: 85%;
+    float: unset;
+  
+  }
+  .title-penthause{
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom:  10px;
+  }
+  .img-penthause-2 {
+    margin: 0px 50px 50px 50px;
+   
+  }
+  .img-penthause-2-png
+  {
+    width: 100%;
+  }
+  
+  .menu-btn-request {
+    margin-top: 15px;
+    font-size: 15px;
+    font-weight: 300px;
+    line-height: 18px;
+    max-width: 200px;
+    padding: 10px 10px 10px 10px;
+  }
+.class-apartaments
+{
+  display: block;
+}
+  .img-apartaments {
+
+    margin-bottom: 0px;
+    margin: 0px 100px 0px 50px;
+
+
+  }
+  .img-apart-png
+{
+  width:100%;
+}
+.title-apartaments {
+  margin: 0px 0px 0px 0px;
+}
+.class-apartaments
+{
+  margin-top: 0;
+}
+.info-tech {
+  margin-left: 50px;
+  line-height: 13px;
+}
+.btn-info-charakt-serv,
+.btn-info-charakt-park,
+.btn-info-charakt-video,
+.btn-info-charakt-lift,
+.btn-info-charakt-terr,
+.btn-info-charakt-fenst,
+.btn-info-charakt-signal,
+.btn-info-charakt-kond,
+.btn-info-charakt-vent {
+
+  margin-right: 50px;
+}
+.header-tech {
+    margin-bottom: 20px;
+    margin-left: 50px;
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 30px;
+}
+.teh-charakteristick {
+  margin-top: 50px;
+
+ }
+ .img-flat
+{
+  width: 100%;
+  margin-top: 50px;
+}
+.img-hause
+{
+  width: 100%;
+  margin-top: 50px;
+}
+.name-partners
+{
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.grid-partners
+{
+  margin: 20px 20px 20px 50px;
+  grid-template-columns: repeat(2,200px);
+  grid-template-rows: repeat(3 , 100px); 
+  grid-gap: 10px;
+  justify-items: center;
+}
+.rect-vtb24,
+.rect-gaz,
+.rect-tinkoff,
+.rect-nordgold,
+.rect-lukoil,
+.rect-pikgrupa {
+  width: 100%;
+  height: auto;
+}
+.footer-information
+{
+  display: block;
+}
+.footer-main {
+  margin-left: 50px;
+  padding-top: 20px;
+  margin-top: 50px;
+}
+
+.contacts-footer {
+  margin-left: 50px;
+}
+
+.footer-forma {
+  margin-left: 50px;
+  margin-top: 20px;
+ 
+}
+.contacts-input 
+{
+  width: 90%;
+}
+.contacts-footer
+{
+  margin-left: 20px;
+  font-size: 15px;
+}
+.footer-links-contacts{
+  font-size: 13px;
+}
+.request-title
+{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 50px;
+}
+.footer-info-additionaly-left
+{
+  display: none;
+}
+.footer-info-additionaly-right
+{
+  display: none;
+  
+}
+.footer-info-additionaly-left-right
+{
+  margin-top: 50px;
+  display: unset;
+}
+
+.footer-links-contacts
+{
+  font-size: 15px;
+  line-height: 20px;
+}
+.footer-add-info-accept
+{
+  font-size: 13px;
+}
+.name-footer {
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 33px;
+  margin-bottom: 50px;
+ }
+}
+ 
