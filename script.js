@@ -1,3 +1,13 @@
+//адаптив меню
+const menuBtn = document.querySelector(".menu-btn-mobile");
+const menuMobile = document.querySelector(".menu-mobile");
+const promoMobile = document.querySelector(".promo_inner");
+  
+menuBtn.addEventListener('click', () => {
+  menuMobile.classList.toggle('menu--open');
+  promoMobile.classList.toggle('menu-open');
+});
+
 class MyBlockClass {
   constructor(btn, div, info) {
     this.btn = btn;
@@ -94,3 +104,5 @@ let bl9 = new MyBlockClass(buttonElemVent, divChange9, outputMoreVent);
 let newFunctVent = function () {
   buttonElemVent.addEventListener("click", bl9.onButtonClick());
 };
+
+
