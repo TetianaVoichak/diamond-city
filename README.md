@@ -7,4 +7,4 @@ CSS
 
 Java Script
 
-can you view https://tatianavoichak.github.io/diamond-city/
+can you view https://tetianavoichak.github.io/diamond-city/
