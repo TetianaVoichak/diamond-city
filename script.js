@@ -17,11 +17,7 @@ class MyBlockClass {
   }
   // a function to switch:
   changeStyle = () => {
-    console.log('changeStyle called');
-    console.log(this.info);
-    const computedStyle = window.getComputedStyle(this.info);
-    const check = computedStyle.visibility == "hidden";
-    console.log(check); // Печать текущего состояния visibility
+    const check = this.info.style.visibility == "hidden";
 
     // We create an object that has the properties as Name Value Pairs:
     const infoEnabledStyle = {
@@ -29,6 +25,7 @@ class MyBlockClass {
       background: "#F0F0F0",
       height: "102px",
     }
+
     // Another object contains the other properties:
     const infoDisabledStyle = {
       visibility: "hidden",
@@ -48,22 +45,22 @@ class MyBlockClass {
       // Apply styles to the div for the open state
       this.div.style.height = infoEnabledStyle.height;
       this.div.style.background = infoEnabledStyle.background;
-      this.div.style.color = "#333";
+      this.info.style.background = infoEnabledStyle.background;
+      this.div.style.color = infoEnabledStyle.color;
     }
     else {
       for (const prop in infoDisabledStyle) {
         this.info.style[prop] = infoDisabledStyle[prop]
       }
-      // Apply styles to the div for the open state
+      // Apply styles to the div for the close state
       this.div.style.height = infoDisabledStyle.height;
       this.div.style.background = infoDisabledStyle.background;
-      this.div.style.color = "#333";
+      this.info.style.background = infoDisabledStyle.background;
+      this.div.style.color = infoDisabledStyle.color;
     }
 
   };
   onButtonClick() {
-    console.log('onButtonClick called');
-
     this.changeStyle();
   }
 }
